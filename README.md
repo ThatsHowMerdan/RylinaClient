@@ -19,10 +19,10 @@ Teleport \
 and many features in this software!
 
 ## Cheat Menu:
-<img src="https://raw.githubusercontent.com/Rylina/rylina/main/rylina.png?token=AIQMSABH73UKD4JMOACIEZ3AT2UMW" />
-<img src="https://raw.githubusercontent.com/Rylina/rylina/main/combat.png?token=AIQMSABRRK42Y5RJVJQRZX3AT2UOI" />
-<img src="https://raw.githubusercontent.com/Rylina/rylina/main/blatant.png?token=AIQMSAB42H5ELPE6CJUGY2LAT2UTO" />
-<img src="https://raw.githubusercontent.com/Rylina/rylina/main/other.png?token=AIQMSABQ3QFU6HT2MWLILALAT2UUK" />
+<img src="https://i.ibb.co/FKpq1R2/rylina.png" />
+<img src="https://i.ibb.co/NKdRPqq/blatant.png" />
+<img src="https://i.ibb.co/NKdRPqq/blatant.png" />
+<img src="https://i.ibb.co/crCMNgW/other.png" />
 
 ## Issues
 If you notice any bugs or missing features, you can let us know by opening an issue [here](https://github.com/Rylina/RylinaClient/issues).
