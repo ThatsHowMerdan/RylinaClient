@@ -28,7 +28,7 @@ and many features in this software!
 If you notice any bugs or missing features, you can let us know by opening an issue [here](https://github.com/Rylina/RylinaClient/issues).
 
 ## Copyright
-©️ Spache | All rights reserved.
+©️ Rylina | All rights reserved.
 
 *Actions that you are not allowed to do without our permission:*
 
@@ -37,7 +37,8 @@ If you notice any bugs or missing features, you can let us know by opening an is
 - Modify 
 
 **Creating videos, modifying this software, and publish to YouTube or other video sites is not allowed without our permission with the Rylina Client. You may get copyright infringement claim or legal consequences.**\
-**Contact us to get permission for use: spache0@protonmail.com**
+
+**Contact us to get permission for use: copyright@rylinamods.xyz**
 
 ## Contact
 You can find my official social media accounts below.
@@ -46,7 +47,7 @@ You can find my official social media accounts below.
 [Twitter](https://twitter.com/Spache0/) |
 [GitHub](https://github.com/Spache0) 
 
-You can contact me with this email: spache0@protonmail.com
+You can contact me with this email: support@rylinamods.xyz
 
 ## Contributing
 I appreciate your contribution. So if you want to support me, you can follow my social media accounts :)^^
