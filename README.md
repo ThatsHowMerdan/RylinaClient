@@ -1,5 +1,5 @@
 ## Rylina Client 
-Rylina is a free hacked client using on RiseClient and SonOyuncu Client. With our software, you will be unfair advantage to other players.
+Rylina is a free hacked client for RiseClient and SonOyuncu Client. With our software, you will be unfair advantage to other players.
 
 ## Download:
 You can download the software [here](https://github.com/Rylina/RylinaClient/releases). \
