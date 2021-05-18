@@ -36,7 +36,7 @@ If you notice any bugs or missing features, you can let us know by opening an is
 - Share
 - Modify 
 
-**Creating videos, modifying this software, and publish to YouTube or other video sites is not allowed without our permission with the Rylina Client. You may get copyright infringement claim or legal consequences.**\
+**Creating videos, modifying this software, and publish to YouTube or other video sites is not allowed without our permission with the Rylina Client. You may get copyright infringement claim or legal consequences.**
 
 **Contact us to get permission for use: copyright@rylinamods.xyz**
 
